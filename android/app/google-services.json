@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "416596920010",
+    "project_id": "true-river-311808",
+    "storage_bucket": "true-river-311808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416596920010:android:56abf13820be6f552b5633",
+        "android_client_info": {
+          "package_name": "com.example.rent2car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416596920010-21c1i2abh9rtgkgtuhe3t9tfg1bm7b3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent2car",
+            "certificate_hash": "6fa028f247f9ef6f0a4b33ff906672e308e68e50"
+          }
+        },
+        {
+          "client_id": "416596920010-uolf35pbeahchmjjrbkkraijcesl4k44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent2car",
+            "certificate_hash": "df4a8b4b58ad34f74c47b21ae150207a24fa72d5"
+          }
+        },
+        {
+          "client_id": "416596920010-no7vvdjjcti6kddit1c5t9cg1669f1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH98hS1OLapa-svP0UxpPKDY86j0A1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416596920010-4qufca0kjl0f4hc1mqnrjkd86a49evpa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416596920010-58hbvns1s06tha3g2jssjt0p4vp0m306.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rent2car"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416596920010:android:4fc839bef595a3b42b5633",
+        "android_client_info": {
+          "package_name": "com.triaxo.rent2car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416596920010-21c1i2abh9rtgkgtuhe3t9tfg1bm7b3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triaxo.rent2car",
+            "certificate_hash": "6fa028f247f9ef6f0a4b33ff906672e308e68e50"
+          }
+        },
+        {
+          "client_id": "416596920010-lem37gg6i33vh9tjc123h0jldct2gdno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triaxo.rent2car",
+            "certificate_hash": "b2801e45386f40a1e0a3d7f8902c5eec6c54c702"
+          }
+        },
+        {
+          "client_id": "416596920010-uduep9mhned467iptro0hlb3m79jq2mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triaxo.rent2car",
+            "certificate_hash": "4acafaddc4ccc94415bb9bf63614c8a29d5a07df"
+          }
+        },
+        {
+          "client_id": "416596920010-no7vvdjjcti6kddit1c5t9cg1669f1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH98hS1OLapa-svP0UxpPKDY86j0A1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416596920010-4qufca0kjl0f4hc1mqnrjkd86a49evpa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416596920010-58hbvns1s06tha3g2jssjt0p4vp0m306.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rent2car"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

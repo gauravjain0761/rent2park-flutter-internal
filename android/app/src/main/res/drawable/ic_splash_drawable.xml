@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:opacity="transparent">
+
+    <item android:drawable="@drawable/rectangle_color_primary_linear_gradient" />
+
+</layer-list>

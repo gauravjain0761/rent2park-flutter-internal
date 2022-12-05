@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>416596920010-qcn7t8uil31tcr5k18c6bn1fibpcv1hg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.416596920010-qcn7t8uil31tcr5k18c6bn1fibpcv1hg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>416596920010-21c1i2abh9rtgkgtuhe3t9tfg1bm7b3j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBha8eAA9hOCM3_Kqr_xo4hKqzDLy07_YI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416596920010</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.triaxo.rent2park</string>
+	<key>PROJECT_ID</key>
+	<string>true-river-311808</string>
+	<key>STORAGE_BUCKET</key>
+	<string>true-river-311808.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416596920010:ios:1af016dca0deb8e52b5633</string>
+</dict>
+</plist>
